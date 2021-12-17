@@ -671,6 +671,13 @@ section {
   
 
 }
+.testimonials .testimonial-item .testimonial-img2 {
+  width: 380px;
+  height: 500px;
+  margin-left: 38%;
+  
+
+}
 
 .testimonials .testimonial-item h3 {
   font-size: 18px;

@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Raveena Bandara portfolio</title>
+  <title>Mohammed Hazeer Zacky | Portfolio</title>
 
   <!--Favicon-->
   <link href ="assets/img/icons/fav1.png" rel="icon">
@@ -201,7 +201,6 @@
 
         <div class="section-title">
           <h2>Resume</h2>
-      
         </div>
 
         <div class="row">
@@ -237,11 +236,21 @@
                 Grade point Average(GPA):3.17</p>
             </div>
 
+            <!-- NVQ -->
+            <div class="resume-item">
+              <h4>THE VOCATIONAL TRAINING AUTHORITY OF SRI LANKA(VTA)</h4>
+              <h5>2018 - 2019</h5>
+              <p><em>Higher Education</em></p>
+              <p>
+                I studied Information and Communications Technology NVQ Level 4 in 2018 and obtained the certificate.
+              </p>
+            </div>
+
             <!-- A/L -->
             <div class="resume-item">
               <h4>ZAHIRA COLLEGE, KALMUNAI</h4>
               <h5>2011 - 2017</h5>
-              <p>Secondary Education</p>
+              <p><em>Secondary Education</em></p>
               <p><em>Passed G.C.E Ordinary Level exam .</em></p>
               <p><em>Passed G.C.E Advanced level exam in eng-technology stream.</em></p>
             </div>
@@ -250,16 +259,19 @@
             <div class="resume-item">
               <h4>KM/AL-AZHAR VIDYALAYA, KALMUNAIKUDY 09</h4>
               <h5>2003 - 2009</h5>
-              <p>primary and intermediate education</p>
+              <p><em>Primary and Intermediate Education</em></p>
             </div>
 
-            <h3 class="resume-title">Experiences</h3>
+            <h3 class="resume-title">Working Experiences</h3>
             <div class="resume-item">
               <h4>Ashraff Memorial Hospital Kalmunai(AMH)</h4>
               <h5>2018 - 2019</h5>
               <p><em>Work</em></p>
-              <p>I am halfway through my bachelor's degree program and performing well in each semester with outstanding ranks.<br>
-                Grade point average(GPA): 3.14</p>
+              <p>
+                I worked as data analysis and data entry operator in AMH Kalmunai. 
+                I managed daily outpatient details and daily dengue patient details and provided 
+                computer support for doctors.
+              </p>
             </div>
 
 
@@ -276,7 +288,7 @@
             <h3 class="resume-title">Projects</h3>
             <div class="resume-item">
               <h4>Online student results management system</h4><br>
-              <p>SUPERVISOR: Miss. M.A.C. Jiffriya <br>INSTITUTE: SLIATE HNDIT 2nd semester project</p><br>
+              <p><b>SUPERVISOR: Miss. M.A.C. Jiffriya <br>INSTITUTE: SLIATE (HNDIT 2nd semester project)</b></p><br>
               <p>Mahmud Ladies College is a National school situated in the area of Ampara District, Kalmunai. 
                 The administration of the school was not able to maintain the whole student’s results properly. 
                 Because there are lots of students are permitted for studying purpose. And the student’s results details, class details,
@@ -301,7 +313,7 @@
             </div>
             <div class="resume-item">
               <h4>Thagaval Times Information Application(Android)</h4><br>
-              <p>SUPERVISOR: Miss. M.A.C. Jiffriya <br>INSTITUTE: SLIATE HNDIT 4th semester project</p><br>
+              <p><b>SUPERVISOR: Miss. M.A.C. Jiffriya <br>INSTITUTE: SLIATE (HNDIT 4th semester project)</b></p><br>
               <p>This system is developed as an android application and it is named “THAGAVAL TIMES INFORMATION APPLICATION” by the author. 
                 This system was created by the author for many more purposes such as providing useful information, quotes, word description, 
                 thoughts, live COVID patient counts, and live world news to the user. Previously the existing system was posted posts in image 
@@ -411,7 +423,7 @@
 
         <div class="row">
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up">
-            <div class="icon"><i class="icofont-computer"></i></div>
+            <div class="icon"><i class="icofont-web"></i></div>
             <h4 class="title"><a href="">Web Application Development</a></h4>
             <p class="description">Full stack web based application for manage any kind of business work in your organization .</p>
           </div>
@@ -431,12 +443,12 @@
             <p class="description">Applying the newest UX/UI technology, create incredibly unique and attractive user interfaces. Design a fantastic website for your company with attractive user interfaces.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon"><i class="icofont-image"></i></div>
+            <div class="icon"><i class="icofont-video-clapper"></i></div>
             <h4 class="title"><a href="">Photo and Video Editing</a></h4>
-            <p class="description">Applying the newest UX/UI technology, create incredibly unique and attractive user interfaces. Design a fantastic website for your company with attractive user interfaces.</p>
+            <p class="description">Create and edit professional photos and videos for Instagram and Youtube. And more image and video-related editing work.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon"><i class="icofont-settings"></i></div>
+            <div class="icon"><i class="icofont-brand-android-robot"></i></div>
             <h4 class="title"><a href="">Mobile Application Development</a></h4>
             <p class="description">Create an Android-based application with outstanding UI and UX. Having simple and innovative mobile applications allows you to interact more with your vendors.</p>
           <!-- </div>
@@ -461,48 +473,39 @@
       
         </div>
           <div class="testimonial-item" data-aos="fade-up">
-            <h3> 1. )  ONLINE FOOD ORDERING AND DELIVERY MANAGEMENT SYSTEM</h3><br><br>
+            <h3> 1. )  ONLINE STUDENT RESULTS MANAGEMENT SYSTEM</h3><br><br>
             <p><i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Our team implemented an online food & delivery system called "Thaulla bojun". Before two three years ago, many food 
-              courts had paid their attention on offering a rich dining experience to their customers and then due to hectic lifestyle 
-              of people they initiated online food ordering using phone calls. But that was not the accurate solution for the customers 
-              due to inconvenience of having a physical copy of menu, lack of visual confirmation that the order was placed correctly and so on.
-               According to those statistics, having an online food ordering and delivery management system in a food court would be precious 
-               factor. ‘Thaulla Foods’ is an online food ordering and delivery management system, which provides very sophisticated, timely and 
-               well simplified alternative for all types of dine requirements. In a nutshell, nowadays placing an order is just one click away 
-               for customers. It’s evident that customers get visually stimulated when they get an opportunity to see the entire menu by themselves.
-                This would be an economical opportunity as well as a streamline for businesses due to having a smaller number of employers for 
-                managing customers and increase in budget. Not only for the customers, “Thaulla Bojun” provides a comfortable environment for 
-                stock managers, delivery people, suppliers and for all the employers to fulfill their tasks in an efficient manner.<br><br>
-                <br>GitHub URL : <a href="https://github.com/SLIIT-IT-Project-2021/Thaulla-Bojun">https://github.com/SLIIT-IT-Project-2021/Thaulla-Bojun</a><br>
-                Technologies : React JS  |   Node JS  |   MongoDB  |   Express  |   Bootstrap <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+              Mahmud Ladies College is a National school situated in the area of Ampara District, Kalmunai. The administration of the school was not able to maintain the whole student’s results properly. Because there are lots of students are permitted for studying purpose. And the student’s results details, class details, subject details, teacher’s details, and the results calculations are maintained manually. An organized and systematic Database solution is essential for all Institutions and Schools.
+              This is PHP Project using Laraval framework and My SQL Database on Student Result Management System, which will help us to make the results easily accessible and students can get results wherever they want and by using whichever devices they can check their results. From this Result Management System, Student can print their result also students can download results in PDF format also. One of the major advantages of this Student Result Management System is to makes the process extremely convenient for students also. Under this system, Student can search their result using a valid index number.
+              This Student Results Management System is simplifying the administration works on student results, subjects, teachers, users, and class details. The administration can store thousands of information, create a report, and speed up the daily routine process using this web-based system.
+              The main impartial of this PHP project is to supply examination results to the student in an easy way. And also it is helpful for teachers and the administrator to view, add, update, delete, retrieve and calculate the results through this system.
+              <br>
+              <br>
+              <br>
+              GitHub URL : <a href="https://github.com/HazkyOfficial/RMS2020">https://github.com/HazkyOfficial/RMS2020</a><br>
+              Technologies : Laravel  |   PHP  |   MySQL  |   AdminLTE  |   Bootstrap <i class="bx bxs-quote-alt-right quote-icon-right"></i>
 
           </p>  
     
-           <img src="assets/img/projects/pro1.PNG" class="testimonial-img" alt="">
+           <img src="assets/img/projects/Pro1.png" class="testimonial-img" alt="">
+
           </div><br><br>
 
 
 
           <div class="testimonial-item" data-aos="fade-up">
-            <h3> 2. ) ONLINE PET CARE AND PET ORDERING SYSTEM</h3><br><br>
+            <h3> 2. ) THAGAVAL TIMES INFORMATION APPLICATION(ANDROID)</h3><br><br>
             <p><i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              All 4 pet is an interactive mobile application which facilitates all kinds of requirements related to your beloved pets.
-              Many services related to pet essentials; medical services specialized for pets can be obtained under single roof. The mobile
-               application is very user friendly and eye catching which the user can get services by clicking few buttons. Veterinary service
-                is just one click away. The user can get services and products as their preference without considering the distance and other 
-                environmental factors. The customer can satisfy various kinds of products and items related to pets by ordering them. The most 
-                important thing is the app facilitated different options for same task. 
-                   home for long time periods. People who live a hectic lifestyle frequently have to face troubles in feeding their pets
-                    on time. Therefor as a solution for that we provide day care center for pets.  If customer is facing any trouble, he can visit FAQs page and resolve their problems
-                     related to the services. Further in our system customer can place their feedbacks and comments. Customers 
-                     are able to view previous feedbacks and they could predict the quality of our service..<br><br>
-                <br>GitHub URL : <a href="https://github.com/MAD-Project-2021/All-4-Pets">https://github.com/MAD-Project-2021/All-4-Pets</a><br>
-                Technologies : Java |   Firebase  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+              This system is developed as an android application and it is named “THAGAVAL TIMES INFORMATION APPLICATION” by the author. This system was created by the author for many more purposes such as providing useful information, quotes, word description, thoughts, live COVID patient counts, and live world news to the user. Previously the existing system was posted posts in image format on social media like WhatsApp, Facebook, Twitter, and Instagram. So, if a user wants to publish his posts in it, he had necessary to have image editing software. And also, there were the user needed to spend more time to create a post in image format. Therefore, this system has been developed by the author in the Android Studio to solve such problems and provide information on a categorical basis. So, this system will reduce the time vesting. Through this system, users can see the live news and COVID live patient count updates also. The information posted here is stored on the Google Firebase DB. So, users can view all information anytime and anywhere. 
+              <br>
+              <br>
+              <br>
+              GitHub URL : <a href="https://github.com/HazkyOfficial/ThagavalTimes">https://github.com/HazkyOfficial/ThagavalTimes</a><br>
+              Technologies : Java | XML | Firebase  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
 
           </p>  
     
-           <img src="assets/img/projects/pro2.PNG" class="testimonial-img1" alt="">
+           <img src="assets/img/projects/Pro2.jpg" class="testimonial-img1" alt="">
           </div><br><br>
 
       
