@@ -30,6 +30,13 @@
 
 <body>
 
+  <!-- Right Click Disable -->
+  <script>
+    document.addEventListener("contextmenu", function(event){
+    event.preventDefault();  
+    }, false);
+  </script>
+
   <!-- ======= Mobile nav toggle button ======= -->
   <button type="button" class="mobile-nav-toggle d-xl-none"><i class="icofont-navigation-menu"></i></button>
 
@@ -53,9 +60,11 @@
         <ul>
           <li class="active"><a href="index.html"><i class="bx bx-home"></i> <span>Home</span></a></li>
           <li><a href="#about"><i class="bx bx-user"></i> <span>About</span></a></li>
+          <li><a href="#skills"><i class="bx bx-bookmark-alt"></i> <span>Skills</span></a></li>
           <li><a href="#resume"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
           <li><a href="#portfolio"><i class="bx bx-book-content"></i> Achievements</a></li>
           <li><a href="#services"><i class="bx bx-server"></i> Services</a></li>
+          <li><a href="#testimonials"><i class="bx bx-archive-out"></i> Projects</a></li>
           <li><a href="#contact"><i class="bx bx-envelope"></i> Contact Me</a></li>
 
         </ul>
@@ -99,9 +108,9 @@
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="icofont-rounded-right"></i> <strong>Birthday:</strong>July 1997</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Birthday:</strong> July 1997</li>
                   <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> 075 7320 304</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>City:</strong>Kalmunai</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>City:</strong> Kalmunai</li>
                 </ul>
               </div>
               <div class="col-lg-6">
@@ -473,7 +482,7 @@
       
         </div>
           <div class="testimonial-item" data-aos="fade-up">
-            <h3> 1. )  ONLINE STUDENT RESULTS MANAGEMENT SYSTEM</h3><br><br>
+            <h3> 1. ONLINE STUDENT RESULTS MANAGEMENT SYSTEM</h3><br><br>
             <p><i class="bx bxs-quote-alt-left quote-icon-left"></i>
               Mahmud Ladies College is a National school situated in the area of Ampara District, Kalmunai. The administration of the school was not able to maintain the whole student’s results properly. Because there are lots of students are permitted for studying purpose. And the student’s results details, class details, subject details, teacher’s details, and the results calculations are maintained manually. An organized and systematic Database solution is essential for all Institutions and Schools.
               This is PHP Project using Laraval framework and My SQL Database on Student Result Management System, which will help us to make the results easily accessible and students can get results wherever they want and by using whichever devices they can check their results. From this Result Management System, Student can print their result also students can download results in PDF format also. One of the major advantages of this Student Result Management System is to makes the process extremely convenient for students also. Under this system, Student can search their result using a valid index number.
@@ -494,7 +503,7 @@
 
 
           <div class="testimonial-item" data-aos="fade-up">
-            <h3> 2. ) THAGAVAL TIMES INFORMATION APPLICATION(ANDROID)</h3><br><br>
+            <h3> 2. THAGAVAL TIMES INFORMATION APPLICATION(ANDROID)</h3><br><br>
             <p><i class="bx bxs-quote-alt-left quote-icon-left"></i>
               This system is developed as an android application and it is named “THAGAVAL TIMES INFORMATION APPLICATION” by the author. This system was created by the author for many more purposes such as providing useful information, quotes, word description, thoughts, live COVID patient counts, and live world news to the user. Previously the existing system was posted posts in image format on social media like WhatsApp, Facebook, Twitter, and Instagram. So, if a user wants to publish his posts in it, he had necessary to have image editing software. And also, there were the user needed to spend more time to create a post in image format. Therefore, this system has been developed by the author in the Android Studio to solve such problems and provide information on a categorical basis. So, this system will reduce the time vesting. Through this system, users can see the live news and COVID live patient count updates also. The information posted here is stored on the Google Firebase DB. So, users can view all information anytime and anywhere. 
               <br>
@@ -529,7 +538,7 @@
               <div class="address">
                 <i class="icofont-google-map"></i>
                 <h4>Location:</h4>
-                <p>Kalmunai , East Province</p>
+                <p>Kalmunai, Eastern Province</p>
               </div>
 
               <div class="email">
