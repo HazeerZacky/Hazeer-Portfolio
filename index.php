@@ -79,7 +79,7 @@
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
       <h1 style="margin-left: 100px;">Moammed Hazeer Zacky</h1>
-      <p style="margin-left: 103px;">I'm a <span class="typed" data-typed-items=" Web Application Developer,Web Designer,Freelancer,Graphic Designer,Mobile Application Developer,Desktop Application Developer,Technology Enthusiast"></span></p>
+      <p style="margin-left: 103px;">I'm a <span class="typed" data-typed-items=" Web Application Developer.,Web Designer.,Freelancer.,Graphic Designer.,Mobile Application Developer.,Desktop Application Developer.,Technology Enthusiast."></span></p>
     </div>
   </section><!-- End Hero -->
 
