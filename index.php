@@ -614,7 +614,7 @@
 
           </p>  
     
-           <img src="assets/img/projects/Pro1.png" class="testimonial-img" alt="">
+           <img src="assets/img/projects/Pro1.jpg" class="testimonial-img" alt="">
 
           </div><br><br>
 
