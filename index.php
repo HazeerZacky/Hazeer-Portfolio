@@ -29,6 +29,7 @@
 </head>
 
 <body>
+  
 
   <!-- Right Click Disable -->
   <script>
@@ -362,28 +363,132 @@
 
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100"><br><br><br>
           
+
+          <!-- certifications -->
+          
           <!-------------------------------------------------------------------------------->
-          <div class="col-lg-4 col-md-6 portfolio-item filter-other">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-certifications">
             <div class="portfolio-wrap">
-              <img src="assets/img/achievements/1.PNG" class="img-fluid" alt="">
+              <img src="assets/img/achievements/cir1.jpg" class="img-fluid" alt="HTML Full Course">
               <div class="portfolio-links">
-                <a href="assets/img/achievements/1.PNG" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/achievements/cir1.jpg" data-gall="portfolioGallery" class="venobox" title="Sololearn"><i class="bx bx-plus"></i></a>
+                <a href="https://www.sololearn.com/Certificate/1014-24184065/pdf/" title="More Details"><i class="bx bx-link"></i></a>
               </div>
-              <p><center>First Year First Semester<br>3.39 GPA</p></center>
+              <p><center>HTML Full Course</p></center>
+            </div>
+          </div>
+          <!-------------------------------------------------------------------------------->
+          
+          
+          <!-------------------------------------------------------------------------------->
+          <div class="col-lg-4 col-md-6 portfolio-item filter-certifications">
+            <div class="portfolio-wrap">
+              <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-eb620f22-d720-47e7-8dfb-5c725d7e5c27.jpg" class="img-fluid" alt="Java Programming: Complete Beginner to Advanced">
+              <div class="portfolio-links">
+                <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-eb620f22-d720-47e7-8dfb-5c725d7e5c27.jpg" data-gall="portfolioGallery" class="venobox" title="Udemy"><i class="bx bx-plus"></i></a>
+                <a href="https://www.udemy.com/certificate/UC-eb620f22-d720-47e7-8dfb-5c725d7e5c27/" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+              <p><center>Java Programming: Complete Beginner to Advanced</p></center>
+            </div>
+          </div>
+          <!-------------------------------------------------------------------------------->
+          
+          <!-------------------------------------------------------------------------------->
+          <div class="col-lg-4 col-md-6 portfolio-item filter-certifications">
+            <div class="portfolio-wrap">
+              <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-d425b698-b6a4-46cf-a7a4-1973a8d28d3e.jpg" class="img-fluid" alt="Make Laravel and Laravel 8 APIs and Apps fast with blueprint">
+              <div class="portfolio-links">
+                <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-d425b698-b6a4-46cf-a7a4-1973a8d28d3e.jpg" data-gall="portfolioGallery" class="venobox" title="Udemy"><i class="bx bx-plus"></i></a>
+                <a href="https://www.udemy.com/certificate/UC-d425b698-b6a4-46cf-a7a4-1973a8d28d3e/" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+              <p><center>Make Laravel and Laravel 8 APIs and Apps fast with blueprint</p></center>
+            </div>
+          </div>
+          <!-------------------------------------------------------------------------------->
+          
+          <!-------------------------------------------------------------------------------->
+          <div class="col-lg-4 col-md-6 portfolio-item filter-certifications">
+            <div class="portfolio-wrap">
+              <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-cfdff200-c0d8-4094-9af1-a72542ffc0f4.jpg" class="img-fluid" alt="The Complete Introduction to C++ Programming">
+              <div class="portfolio-links">
+                <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-cfdff200-c0d8-4094-9af1-a72542ffc0f4.jpg" data-gall="portfolioGallery" class="venobox" title="Udemy"><i class="bx bx-plus"></i></a>
+                <a href="https://www.udemy.com/certificate/UC-cfdff200-c0d8-4094-9af1-a72542ffc0f4/" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+              <p><center>The Complete Introduction to C++ Programming</p></center>
+            </div>
+          </div>
+          <!-------------------------------------------------------------------------------->
+          
+          <!-------------------------------------------------------------------------------->
+          <div class="col-lg-4 col-md-6 portfolio-item filter-certifications">
+            <div class="portfolio-wrap">
+              <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-507feb2c-e520-4354-878c-d541cfefa1de.jpg" class="img-fluid" alt="HTML & CSS - Certification Course for Beginners">
+              <div class="portfolio-links">
+                <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-507feb2c-e520-4354-878c-d541cfefa1de.jpg" data-gall="portfolioGallery" class="venobox" title="Udemy"><i class="bx bx-plus"></i></a>
+                <a href="https://www.udemy.com/certificate/UC-507feb2c-e520-4354-878c-d541cfefa1de/" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+              <p><center>HTML & CSS - Certification Course for Beginners</p></center>
+            </div>
+          </div>
+          <!-------------------------------------------------------------------------------->
+          
+          <!-------------------------------------------------------------------------------->
+          <div class="col-lg-4 col-md-6 portfolio-item filter-certifications">
+            <div class="portfolio-wrap">
+              <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-b530c968-c572-4cd1-a296-c1b44f7ba723.jpg" class="img-fluid" alt="PHP & MySQL - Certification Course for Beginners">
+              <div class="portfolio-links">
+                <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-b530c968-c572-4cd1-a296-c1b44f7ba723.jpg" data-gall="portfolioGallery" class="venobox" title="Udemy"><i class="bx bx-plus"></i></a>
+                <a href="https://www.udemy.com/certificate/UC-b530c968-c572-4cd1-a296-c1b44f7ba723/" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+              <p><center>PHP & MySQL - Certification Course for Beginners</p></center>
             </div>
           </div>
           <!-------------------------------------------------------------------------------->
 
+          <!-------------------------------------------------------------------------------->
+          <div class="col-lg-4 col-md-6 portfolio-item filter-certifications">
+            <div class="portfolio-wrap">
+              <img src="assets/img/achievements/cir3.jpg" class="img-fluid" alt="How to Start Selling Online">
+              <div class="portfolio-links">
+                <a href="assets/img/achievements/cir3.jpg" data-gall="portfolioGallery" class="venobox" title="IIDE - Indian Institute of Digital Education"><i class="bx bx-plus"></i></a>
+              </div>
+              <p><center>How to Start Selling Online</p></center>
+            </div>
+          </div>
+          <!-------------------------------------------------------------------------------->
+
+          <!-------------------------------------------------------------------------------->
+          <div class="col-lg-4 col-md-6 portfolio-item filter-certifications">
+            <div class="portfolio-wrap">
+              <img src="assets/img/achievements/cir2.jpg" class="img-fluid" alt="Facebook and Instagram Ads">
+              <div class="portfolio-links">
+                <a href="assets/img/achievements/cir2.jpg" data-gall="portfolioGallery" class="venobox" title="IIDE - Indian Institute of Digital Education"><i class="bx bx-plus"></i></a>
+              </div>
+              <p><center>Facebook and Instagram Ads</p></center>
+            </div>
+          </div>
+          <!-------------------------------------------------------------------------------->
+
+          <!-------------------------------------------------------------------------------->
+          <div class="col-lg-4 col-md-6 portfolio-item filter-certifications">
+            <div class="portfolio-wrap">
+              <img src="assets/img/achievements/cir6.jpg" class="img-fluid" alt="IOT Online Workshop">
+              <div class="portfolio-links">
+                <a href="assets/img/achievements/cir6.jpg" data-gall="portfolioGallery" class="venobox" title="BCAS Kalmunai Campus"><i class="bx bx-plus"></i></a>
+              </div>
+              <p><center>IOT Online Workshop</p></center>
+            </div>
+          </div>
+          <!-------------------------------------------------------------------------------->
 
           <!-------------------------------------------------------------------------------->
           <div class="col-lg-4 col-md-6 portfolio-item filter-other">
             <div class="portfolio-wrap">
               <img src="assets/img/achievements/2.PNG" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/achievements/2.PNG" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/achievements/2.PNG" data-gall="portfolioGallery" class="venobox" title="1st Year 1st Semi"><i class="bx bx-plus"></i></a>
               </div>
-              <p><center>First Year Second Semester<br>3.07 GPA</p></center>
+              <p><center>First Year First Semester<br>3.71 GPA</p></center>
             </div>
           </div>
           <!-------------------------------------------------------------------------------->
@@ -393,23 +498,36 @@
             <div class="portfolio-wrap">
               <img src="assets/img/achievements/3.PNG" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/achievements/3.PNG" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/achievements/3.PNG" data-gall="portfolioGallery" class="venobox" title="2nd Year 2nd Semi"><i class="bx bx-plus"></i></a>
               </div>
-              <p><center>Second Year First Semester<br>3.00 GPA</p></center>
+              <p><center>First Year Second Semester<br>3.71 GPA</p></center>
             </div>
           </div>
           <!-------------------------------------------------------------------------------->
 
-          <!-- certifications -->
+                    
+          <!-------------------------------------------------------------------------------->
+          <div class="col-lg-4 col-md-6 portfolio-item filter-certifications">
+            <div class="portfolio-wrap">
+              <img src="assets/img/achievements/cir5.jpg" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="assets/img/achievements/cir5.jpg" data-gall="portfolioGallery" class="venobox" title="YouAccel"><i class="bx bx-plus"></i></a>
+                <a href="https://youaccel.com/admin/certificate_gen/tcpdf/ya/certificate_ya2.php?certid=75276904" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+              <p><center>PHP & MySQL - Certification Course for Beginners</p></center>
+            </div>
+          </div>
+          <!-------------------------------------------------------------------------------->
           
           <!-------------------------------------------------------------------------------->
           <div class="col-lg-4 col-md-6 portfolio-item filter-certifications">
             <div class="portfolio-wrap">
-              <img src="assets/img/achievements/udemy1.jpg" class="img-fluid" alt="">
+              <img src="assets/img/achievements/cir4.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/achievements/udemy1.jpg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/achievements/cir4.jpg" data-gall="portfolioGallery" class="venobox" title="YouAccel"><i class="bx bx-plus"></i></a>
+                <a href="https://youaccel.com/admin/certificate_gen/tcpdf/ya/certificate_ya2.php?certid=59303042" title="More Details"><i class="bx bx-link"></i></a>
               </div>
+              <p><center>HTML & CSS - Certification Course for Beginners</p></center>
             </div>
           </div>
           <!-------------------------------------------------------------------------------->
