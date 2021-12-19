@@ -484,9 +484,9 @@
           <!-------------------------------------------------------------------------------->
           <div class="col-lg-4 col-md-6 portfolio-item filter-other">
             <div class="portfolio-wrap">
-              <img src="assets/img/achievements/2.PNG" class="img-fluid" alt="">
+              <img src="assets/img/achievements/1Y1S.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/achievements/2.PNG" data-gall="portfolioGallery" class="venobox" title="1st Year 1st Semi"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/achievements/1Y1S.jpg" data-gall="portfolioGallery" class="venobox" title="1st Year 1st Semi"><i class="bx bx-plus"></i></a>
               </div>
               <p><center>First Year First Semester<br>3.71 GPA</p></center>
             </div>
@@ -496,9 +496,9 @@
           <!-------------------------------------------------------------------------------->
           <div class="col-lg-4 col-md-6 portfolio-item filter-other">
             <div class="portfolio-wrap">
-              <img src="assets/img/achievements/3.PNG" class="img-fluid" alt="">
+              <img src="assets/img/achievements/1Y2S.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/achievements/3.PNG" data-gall="portfolioGallery" class="venobox" title="2nd Year 2nd Semi"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/achievements/1Y2S.jpg" data-gall="portfolioGallery" class="venobox" title="2nd Year 2nd Semi"><i class="bx bx-plus"></i></a>
               </div>
               <p><center>First Year Second Semester<br>3.71 GPA</p></center>
             </div>
