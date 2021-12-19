@@ -500,7 +500,7 @@
               <div class="portfolio-links">
                 <a href="assets/img/achievements/1Y2S.jpg" data-gall="portfolioGallery" class="venobox" title="2nd Year 2nd Semi"><i class="bx bx-plus"></i></a>
               </div>
-              <p><center>First Year Second Semester<br>3.71 GPA</p></center>
+              <p><center>First Year Second Semester<br>3.81 GPA</p></center>
             </div>
           </div>
           <!-------------------------------------------------------------------------------->
