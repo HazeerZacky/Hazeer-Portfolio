@@ -124,6 +124,7 @@
               </div>
             </div>
           <div class ="main-button"><a href="#contact">Contact ME</a></div>
+          <div class ="main-button"><a href="https://drive.google.com/file/d/1CwVxnkm92Pd_Uaq1YNr_ppv_NlVgA_um/view?usp=sharing">Download CV</a></div>
           </div>
         </div>
 
