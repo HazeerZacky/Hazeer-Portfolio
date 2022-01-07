@@ -123,8 +123,8 @@
                 </ul>
               </div>
             </div>
-          <div class ="main-button"><a href="#contact">Contact ME</a></div>
-          <div class ="main-button"><a href="https://drive.google.com/u/0/uc?id=1CwVxnkm92Pd_Uaq1YNr_ppv_NlVgA_um&export=download">Download CV</a></div>
+            <button class ="main-button"><a href="#contact">Contact ME</a></button>
+            <button class ="main-button"><a href="https://drive.google.com/u/0/uc?id=1CwVxnkm92Pd_Uaq1YNr_ppv_NlVgA_um&export=download">Download CV</a></button>
           </div>
         </div>
 
